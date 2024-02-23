@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👨‍💻 I’m currently using Python, JavaScript, R, C++, currently learning something about network.  
+- 👨‍💻 I’m currently using Python, JavaScript, R, C++, currently learning go and java.  
  
  
 
